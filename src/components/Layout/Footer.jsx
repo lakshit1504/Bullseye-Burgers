@@ -5,7 +5,7 @@ const Footer = () => {
   return (
     <footer>
         <div>
-            <h2>B-Tech Burger Wala</h2>
+            <h2>Bullseye Burgers</h2>
             <p>Order the best experience</p>
             <br/>
 

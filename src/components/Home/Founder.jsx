@@ -21,7 +21,7 @@ const Founder = () => {
             <img  src={me} alt="founder" height={200} />
 
             <h3  >Lakshit juneja</h3>
-            <p >Hey everyone, I'm the fouder of B-Tech Burger Wala <br/>
+            <p >Hey everyone, I'm the fouder of Bullseye Burgers <br/>
             our aim is to create most tasty burger on planet
             </p>
         </motion.div>

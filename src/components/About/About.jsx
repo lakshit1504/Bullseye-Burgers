@@ -9,7 +9,7 @@ const About = () => {
         <main>
             <h1>About Us</h1>
             <article>
-                <h4>B-Tech Burger Wala</h4>
+                <h4>Bullseye Burgers</h4>
 
                 <p>The place of perfection to order excellence</p>
                 <p>Explore the various types of tasty food and burgers. click below and go! </p>
