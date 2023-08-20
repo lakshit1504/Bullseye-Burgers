@@ -18,7 +18,7 @@ const Footer = () => {
         </div>
             <aside>
                 <h4>Follow Us</h4>
-                <a href="https://www.instagram.com/lakshit_juneja_lk/"><AiFillInstagram/></a>
+                <a href="https://www.instagram.com/not.so_lucky/"><AiFillInstagram/></a>
                 <a href="https://www.linkedin.com/in/lakshit-juneja"><AiFillLinkedin/></a>
                 <a href="https://github.com/lakshit1504"><AiFillGithub/></a>
             </aside>
