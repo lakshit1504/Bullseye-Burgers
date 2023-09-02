@@ -13,7 +13,7 @@ const Footer = () => {
                 We give attention to genuine feedback.
             </em>
 
-            <strong>All rights reserved @btechburgerwala</strong>
+            <strong>All rights reserved @BullsEYEburgers</strong>
 
         </div>
             <aside>

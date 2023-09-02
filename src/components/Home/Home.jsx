@@ -1,8 +1,8 @@
 import React from 'react'
 import {motion} from "framer-motion"
 import Founder from './Founder'
-import Menu from './Menu'
 import {GiBullHorns} from "react-icons/gi"
+import Menu from './Menu'
 const Home = () => {
 
     const options={
