@@ -1,6 +1,7 @@
 import React from 'react'
 import {motion} from "framer-motion"
 import Founder from './Founder'
+import {GiBullHorns} from "react-icons/gi"
 import Menu from './Menu'
 const Home = () => {
 
@@ -20,7 +21,7 @@ const Home = () => {
     <>
     <section className="home">
         <div>
-            <motion.h1{...options}>B-Tech Burger Wala</motion.h1>
+            <motion.h1{...options}><GiBullHorns/>BullsEYE<br/> Burgers</motion.h1>
             <motion.p  {...options} transition={{delay:"0.2"}}>Give Yourself a tasty treat...</motion.p>
 
         </div>

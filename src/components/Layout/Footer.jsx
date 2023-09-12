@@ -5,7 +5,7 @@ const Footer = () => {
   return (
     <footer>
         <div>
-            <h2>B-Tech Burger Wala</h2>
+            <h2>Bullseye Burgers</h2>
             <p>Order the best experience</p>
             <br/>
 
@@ -13,7 +13,7 @@ const Footer = () => {
                 We give attention to genuine feedback.
             </em>
 
-            <strong>All rights reserved @btechburgerwala</strong>
+            <strong>All rights reserved @BullsEYEburgers</strong>
 
         </div>
             <aside>
